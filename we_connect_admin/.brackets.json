@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Applications/XAMPP/xamppfiles/htdocs/we-connect/bs-binary-admin/js_work/graphs/user_charts_data.js",
+        "/Applications/XAMPP/xamppfiles/htdocs/we-connect/bs-binary-admin/js_work/graphs/app.js",
+        "/Applications/XAMPP/xamppfiles/htdocs/we-connect/bs-binary-admin/js_work/crud/crud_main.js"
+    ]
+}
